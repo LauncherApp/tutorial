@@ -1,6 +1,7 @@
 ---
 title: 'Home'
 comments: false
+zoom_image: false
 ---
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -8,21 +9,28 @@ comments: false
 # Launcher App 使用教程
 
 ## 如何安装
-目前 Launcher App 还在测试阶段，可以通过下面链接安装 testFlight 版本：
+
+#### 正式版本
+<a href="https://apps.apple.com/cn/app/id1493800075" rel=""><img style="float: left;" src="https://user-images.githubusercontent.com/9990834/74100552-48039680-4b6b-11ea-8202-dad6218aaf14.png"></a>
+<br >
+Launcher 1.0 版本已经上架到App Store，可以通过上面链接下载
+
+#### 测试版本
+Launcher 测试版本 1.0.1 还在开发阶段，可以通过下面链接安装 testFlight 版本：
 https://testflight.apple.com/join/mV5oRUT7
 
 ## 如何添加一条新的启动项
 
 1. 点击首页右上角的添加按钮
 2. 启动应用中添加，可以点击启动应用中的添加/移除按钮添加，iOS13设备上也可以长按选择添加
-3. 自定义添加，输入网址或者其他App的scheme，输入名称，(图标暂时还在开发中)，即可添加一条自定义的启动项
+3. 自定义添加，输入网址或者其他App的scheme，输入名称，定制自己喜欢的 icon，即可添加一条自定义的启动项
 
 ## 如何播放视频网站的 VIP 视频
 在填完完一条视频网站的启动项之后，回到主页，比如已经添加一条腾讯视频的链接https://v.qq.com, 点击打开该网页，点击网页中的 VIP 视频，如果解析成功，该网页右下角会有一个播放的按钮，点击该按钮即可选择播放集数，（如果只有单一视频，则点击后立即播放），选择集数即可播放
 
-## 如何反馈问题
-
-点击App的第二个Tab，进入设置页，向上滑动该页找到反馈，支持邮件反馈，iMessage反馈，加入QQ群聊反馈等
+## 如何更改视频解析的方式
+默认的视频解析方式是全集解析，该解析方式失败后，会进行单集解析，目前发现该解析方式获得到的视频比较稍微有点卡顿。
+Launcher 还提供了单集解析，在视频设置里面打开，该解析方式稍微有点慢，是从全网获取最稳定的视频链接，解析到的视频流畅度很高，暂无卡顿
 
 ## 如何添加Widget小组件
 
@@ -35,10 +43,13 @@ https://testflight.apple.com/join/mV5oRUT7
 ## 分享给好友
 可以在设置页的分享给朋友，分享出去，目前分享出去的链接是 testFlight 测试版本链接，未来将会替换成正式版本链接
 
-# 目前未完成的功能
+## 反馈问题
+点击App的第二个Tab，进入设置页，向上滑动该页找到反馈，支持邮件反馈，iMessage反馈，加入QQ群聊反馈等
+
+# v1.0 版本目前未完成的功能
 - [ ] iCloud 同步功能
 - [ ] 首页与小组件样式
-- [ ] 更多图标支持
+- [x] 更多图标支持
 - [x] 视频倍速播放
-- [ ] 视频播放音量调节
+- [x] 视频播放音量调节
 - [x] 添加系统应用与设置
