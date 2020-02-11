@@ -11,7 +11,7 @@ zoom_image: false
 ## 如何安装
 
 #### 正式版本
-<a href="https://apps.apple.com/cn/app/id1493800075" rel=""><img style="float: left;" src="https://user-images.githubusercontent.com/9990834/74100552-48039680-4b6b-11ea-8202-dad6218aaf14.png"></a>
+<a href="https://apps.apple.com/cn/app/id1493800075" rel=""><img style="float: left;" src="/tutorial/assets/app-store.png" height="40"></a>
 <br >
 Launcher 1.0 版本已经上架到App Store，可以通过上面链接下载
 
