@@ -8,15 +8,18 @@ zoom_image: false
 
 # Launcher App 使用教程
 
+## 视频教程
+<a href="/tutorial/video_tutorial/">打开视频教程</a>
+
 ## 如何安装
 
 #### 正式版本
 <a href="https://apps.apple.com/cn/app/id1493800075" rel=""><img style="float: left;" src="/tutorial/assets/app-store.png" height="40"></a>
 <br >
-Launcher 1.0 版本已经上架到App Store，可以通过上面链接下载
+Launcher 1.0.2 版本已经上架到App Store，可以通过上面链接下载
 
 #### 测试版本
-Launcher 测试版本 1.0.1 还在开发阶段，可以通过下面链接安装 testFlight 版本：
+Launcher 测试版本 1.1 还在开发阶段，可以通过下面链接安装 testFlight 版本：
 https://testflight.apple.com/join/mV5oRUT7
 
 ## 如何添加一条新的启动项
@@ -46,7 +49,7 @@ Launcher 还提供了单集解析，在视频设置里面打开，该解析方�
 ## 反馈问题
 点击App的第二个Tab，进入设置页，向上滑动该页找到反馈，支持邮件反馈，iMessage反馈，加入QQ群聊反馈等
 
-# v1.0 版本目前未完成的功能
+# v1.0.3 版本目前未完成的功能
 - [ ] iCloud 同步功能
 - [ ] 首页与小组件样式
 - [x] 更多图标支持

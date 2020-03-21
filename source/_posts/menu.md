@@ -1,6 +1,7 @@
 * [Home](/tutorial)
 * [Changelog](/tutorial/changelog)
 * [Questions](/tutorial/questions)
+* [Video tutorial](/tutorial/video_tutorial)
 
 <!--# Test
 
