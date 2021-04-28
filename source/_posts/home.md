@@ -1,0 +1,49 @@
+---
+title: 'Launcher App 使用教程'
+date: 2021-05-01 00:00:00
+comments: false
+zoom_image: false
+---
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+## 视频教程
+<a href="/tutorial/video_tutorial/">打开视频教程</a>
+<!-- more -->
+
+## 如何安装
+#### 正式版本
+<a href="https://apps.apple.com/cn/app/id1493800075" rel=""><img style="float: left;" src="/tutorial/assets/app-store.png" height="40"></a>
+<br >
+Launcher App 版本已经上架到 App Store，可以通过上面链接下载
+
+#### 测试版本
+Launcher 测试版本是处于开发阶段的版本，可以通过下面链接安装 TestFlight 版本：
+https://testflight.apple.com/join/mV5oRUT7 ，安装前需要安装苹果官方测试平台TestFlight，可以直接从 App Store 下载
+
+## 如何播放视频网站的 VIP 视频
+在填完完一条视频网站的启动项之后，回到主页，比如已经添加一条腾讯视频的链接https://v.qq.com, 点击打开该网页，点击网页中的 VIP 视频，如果解析成功，该网页右下角会有一个播放的按钮，点击该按钮即可选择播放集数，（如果只有单一视频，则点击后立即播放），选择集数即可播放
+
+## 如何更改视频解析的方式
+默认的视频解析方式是全集解析，该解析方式失败后，会进行单集解析，目前发现该解析方式获得到的视频比较稍微有点卡顿。
+Launcher 还提供了单集解析，在视频设置里面打开，该解析方式稍微有点慢，是从全网获取最稳定的视频链接，解析到的视频流畅度很高，暂无卡顿
+
+## 如何添加一条新的启动项
+
+1. 点击首页右上角的添加按钮
+2. 启动应用中添加，可以点击启动应用中的添加/移除按钮添加，iOS13设备上也可以长按选择添加
+3. 自定义添加，输入网址或者其他App的scheme，输入名称，定制自己喜欢的 icon，即可添加一条自定义的启动项
+
+## 如何添加Widget小组件
+
+进入系统的小组件页，滑动到最下方，点击编辑，将“Launcher - 快捷启动”添加即可，也可以参考链接添加：https://support.apple.com/zh-cn/HT207122
+
+## 如何编辑启动项
+1. 点击App的第二个Tab，进入设置页，点击首页启动项编辑，进入编辑页，在编辑页长按可以删除编辑启动项，也可以选择右上角编辑，对启动项进行排序等
+2. iOS13设备上长按启动项，选择编辑或删除即可
+
+## 分享给好友
+可以在设置页的分享给朋友，分享出去，目前分享出去的链接是 testFlight 测试版本链接，未来将会替换成正式版本链接
+
+## 反馈问题
+点击App的第二个Tab，进入设置页，向上滑动该页找到反馈，支持邮件反馈，iMessage反馈，加入QQ群聊反馈等
